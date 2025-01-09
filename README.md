@@ -5,7 +5,7 @@ Dungeon Delver is a top-down dungeon rogulike RPG built with Python and Pygame. 
 
 The game works, but there are some bugs/UI issues. Also, the stats need a lot of refinement, as does the combat system (which is currently not that fun).
 
-This game was a learning experience for me and the code became pretty disorganized, which made it frustratting too work on. It needs a lot more polish, but I didn't feel like working on it anymore.
+This game was a learning experience for me and the code became pretty disorganized, which made it frustratting to work on. It needs a lot more polish, but I didn't feel like working on it anymore.
 
 ## Features
 - Procedurally generated (but very simplistic) dungeon rooms with increasing difficulty.
