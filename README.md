@@ -10,7 +10,7 @@ This game was a learning experience for me and the code became pretty disorganiz
 ## Features
 - Procedurally generated (but very simplistic) dungeon rooms with increasing difficulty.
 - Enemy stat/movement scaling by room tiers.
-- Randomly generated weapons with stat dependent names.
+- Randomly generated weapons with stat dependent names (This could be implemented a lot better. The stats need tweaking.).
 - Inventory and equipment management for weapons, and armour.
 - Boss battles every 10 rooms, as well as special rewards that provide major stat boosts if certain conditions are met.
 - Health fountains for recovery every 10 rooms.
